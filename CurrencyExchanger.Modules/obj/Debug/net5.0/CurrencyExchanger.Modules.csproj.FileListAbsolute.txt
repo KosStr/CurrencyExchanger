@@ -1,0 +1,15 @@
+D:\Roman\Projects\CurrencyExchanger\CurrencyExchanger.Modules\bin\Debug\net5.0\CurrencyExchanger.Modules.deps.json
+D:\Roman\Projects\CurrencyExchanger\CurrencyExchanger.Modules\bin\Debug\net5.0\CurrencyExchanger.Modules.runtimeconfig.json
+D:\Roman\Projects\CurrencyExchanger\CurrencyExchanger.Modules\bin\Debug\net5.0\CurrencyExchanger.Modules.runtimeconfig.dev.json
+D:\Roman\Projects\CurrencyExchanger\CurrencyExchanger.Modules\bin\Debug\net5.0\CurrencyExchanger.Modules.dll
+D:\Roman\Projects\CurrencyExchanger\CurrencyExchanger.Modules\bin\Debug\net5.0\ref\CurrencyExchanger.Modules.dll
+D:\Roman\Projects\CurrencyExchanger\CurrencyExchanger.Modules\bin\Debug\net5.0\CurrencyExchanger.Modules.pdb
+D:\Roman\Projects\CurrencyExchanger\CurrencyExchanger.Modules\obj\Debug\net5.0\CurrencyExchanger.Modules.csprojAssemblyReference.cache
+D:\Roman\Projects\CurrencyExchanger\CurrencyExchanger.Modules\obj\Debug\net5.0\CurrencyExchanger.Modules.GeneratedMSBuildEditorConfig.editorconfig
+D:\Roman\Projects\CurrencyExchanger\CurrencyExchanger.Modules\obj\Debug\net5.0\CurrencyExchanger.Modules.AssemblyInfoInputs.cache
+D:\Roman\Projects\CurrencyExchanger\CurrencyExchanger.Modules\obj\Debug\net5.0\CurrencyExchanger.Modules.AssemblyInfo.cs
+D:\Roman\Projects\CurrencyExchanger\CurrencyExchanger.Modules\obj\Debug\net5.0\CurrencyExchanger.Modules.csproj.CoreCompileInputs.cache
+D:\Roman\Projects\CurrencyExchanger\CurrencyExchanger.Modules\obj\Debug\net5.0\CurrencyExchanger.Modules.dll
+D:\Roman\Projects\CurrencyExchanger\CurrencyExchanger.Modules\obj\Debug\net5.0\ref\CurrencyExchanger.Modules.dll
+D:\Roman\Projects\CurrencyExchanger\CurrencyExchanger.Modules\obj\Debug\net5.0\CurrencyExchanger.Modules.pdb
+D:\Roman\Projects\CurrencyExchanger\CurrencyExchanger.Modules\obj\Debug\net5.0\CurrencyExchanger.Modules.genruntimeconfig.cache
